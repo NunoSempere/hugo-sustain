@@ -4,7 +4,7 @@ html, body {
   background-color: #f1f2f6;
   font-family: 'Aileron Font', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #AEC6E7;
+  border-top: 3px solid #F65D5D;
 }
 
 /* Wrapper for page content to push down footer */
