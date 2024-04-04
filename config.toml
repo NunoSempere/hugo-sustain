@@ -26,7 +26,7 @@ theme = "hugo-sustain"
   Telegram      = "@gartzeasstuff"
   Mastodon      = "https://mastodon.social/@andrewgartzea"
   Kofi          = "https://ko-fi.com/andrewgartzea"
-  RSS           = "/blog/index.xml"
+  RSS           = "/articulos/index.xml"
 
 ## Main Menu
 [[menu.main]]
