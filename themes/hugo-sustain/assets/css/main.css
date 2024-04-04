@@ -1,10 +1,10 @@
 /* Main page with stikky-footer */
 html, body {
   height: 100%;
-  background-color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #f1f2f6;
+  font-family: 'Aileron Font', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27a822;
+  border-top: 3px solid #AEC6E7;
 }
 
 /* Wrapper for page content to push down footer */
@@ -67,7 +67,7 @@ html, body {
   .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #6b6b6b;
-    background-color: #fff;
+    background-color: #f1f2f6;
   }
 }
 
@@ -78,12 +78,12 @@ html, body {
 }
 
 .container a {
-  color: #27a822;
+  color: #AEC6E7;
   text-decoration: none;
 }
 
 .container a:hover {
-  color: #267723;
+  color: #4C76B6;
 }
 
 .container p img,
@@ -121,12 +121,12 @@ html, body {
 
 .panel h4 a,
 h5 a {
-  color: #27a822;
+  color: #AEC6E7;
 }
 
 .panel h4 a:hover,
 h5 a:hover {
-  color: #267723;
+  color: #4C76B6;
 }
 
 .social-links {
@@ -172,8 +172,8 @@ h5 a:hover {
 }
 
 .related-posts {
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid #f1f2f6;
+  border-bottom: 1px solid #f1f2f6;
 }
 
 .related-posts h4 {
@@ -196,7 +196,7 @@ h5 a:hover {
 
 /* Footer  */
 .footer {
-  border-bottom: 5px solid #27a822;
+  border-bottom: 5px solid #AEC6E7;
   padding: 20px 0;
   text-decoration: none !important;
 }
