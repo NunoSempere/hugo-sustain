@@ -20,28 +20,23 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
+  Email         = "andrewgartzea@egmail.com"
+  Instagram     = "https://www.instagram.com/andrewgartzea/"
+  Tiktok        = "https://www.tiktok.com/@andrewgartzea"
+  Telegram      = "@gartzeasstuff"
+  Mastodon      = "https://mastodon.social/@andrewgartzea"
+  Kofi          = "https://ko-fi.com/andrewgartzea"
+  RSS           = "/articulos/index.xml"
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
+  name = "Artículos"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "Artículos"
+  url = "/articulos/"
 [[menu.main]]
-  name = "projects"
-  identifier = "projects"
+  name = "Proyectos"
+  identifier = "Proyectos"
   weight = 200
-  url = "/projects/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 300
-  url = "/resume/"
+  url = "/proyectos/"
+
