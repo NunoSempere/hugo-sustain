@@ -20,14 +20,11 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
+  Email         = "andrewgartzea@egmail.com"
+  Instagram     = "https://www.instagram.com/andrewgartzea/"
+  Tiktok        = "https://www.tiktok.com/@andrewgartzea"
+  Telegram      = "@gartzeasstuff"
+  Mastodon           = "/blog/index.xml"
 
 ## Main Menu
 [[menu.main]]
