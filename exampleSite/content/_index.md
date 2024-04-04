@@ -12,7 +12,7 @@ Puedes contactarme por Instagram en [@andrewgartzea] o también por [email].
 
 
 
-[artículos: /projects
+[artículos]: /projects
 [proyectos]: https://demo.nurlan.co/hugo-vitae/
 [@andrewgartzea]: https://twitter.com/username
 [email]: mailto:andrewgartzea@gmail.com
