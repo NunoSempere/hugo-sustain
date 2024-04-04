@@ -1,19 +1,18 @@
 ---
 ---
+¡Hola! Soy **Andrew Gartzea** (Él/Elle) y me dedico a analizar de forma multidisciplinar, teorizar críticamente y comunicar de formas variadas contenido radical.
 
-I'm **Chris Turner**, a Software Engineer.
+Mi foco de interés es la cuestión de género desde una perspectiva feminista, queer, anticapitalista y antisupremacista, aunque acabo cubriendo todo lo que intersecciona con ello. 
 
-I love all things computer science and maths.
+Echa un vistazo a diversos [artículos] que he escrito.
 
-Have a look at some of my working [projects].
+También tengo y formo parte de [proyectos] variados.
 
-For more check out my academic & professional [resume].
-
-Contact me at [@username] or by [email].
-
+Puedes contactarme por Instagram en [@andrewgartzea] o también por [email].
 
 
-[projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+
+[artículos]: /projects
+[proyectos]: https://demo.nurlan.co/hugo-vitae/
+[@andrewgartzea]: https://twitter.com/username
+[email]: mailto:andrewgartzea@gmail.com
