@@ -1,27 +1,23 @@
 <div class="social">
   <ul class="social-links">
-    {{ with .Site.Params.Social.Github }}
-      <li><a href="https://github.com/{{ . }}"><i class="fa fa-github"></i></a></li>
-    {{ end }}
-
     {{ with .Site.Params.Social.Email }}
       <li><a href="mailto:{{ . }}"><i class="fa fa-envelope"></i></a></li>
     {{ end }}
 
-    {{ with .Site.Params.Social.Twitter }}
-      <li><a href="https://twitter.com/{{ . }}"><i class="fa fa-twitter"></i></a></li>
+    {{ with .Site.Params.Social.Instagram }}
+      <li><a href="https://instagram.com/{{ . }}"><i class="fa fa-instagram"></i></a></li>
     {{ end }}
 
-    {{ with .Site.Params.Social.LinkedIn }}
-      <li><a href="https://linkedin.com/in/{{ . }}"><i class="fa fa-linkedin"></i></a></li>
+    {{ with .Site.Params.Social.Tiktok }}
+    <li><a href="https://tiktok.com/{{ . }}"><i class="fa-brands fa-tiktok"></i>
+  {{ end }}
+
+    {{ with .Site.Params.Social.Ko-fi }}
+      <li><a href="https://ko-fi.com/{{ . }}"><i class="fas fa-coffee"></i>
     {{ end }}
 
-    {{ with .Site.Params.Social.Stackoverflow }}
-      <li><a href="https://stackoverflow.com/{{ . }}"><i class="fa fa-stack-overflow"></i></a></li>
-    {{ end }}
-
-    {{ with .Site.Params.Social.Medium }}
-      <li><a href="https://medium.com/@{{ . }}"><i class="fa fa-medium"></i></a></li>
+    {{ with .Site.Params.Social.Mastodon }}
+      <li><a href="https://mastodon.com/@{{ . }}"><i class="fab fa-mastodon"></i>
     {{ end }}
 
     {{ with .Site.Params.Social.Telegram }}
