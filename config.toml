@@ -21,11 +21,11 @@ theme = "hugo-sustain"
 
 [params.social]
   Email         = "andrewgartzea@egmail.com"
-  Instagram     = "https://www.instagram.com/andrewgartzea/"
-  Tiktok        = "https://www.tiktok.com/@andrewgartzea"
+  Instagram     = "@andrewgartzea"
+  Tiktok        = "@andrewgartzea"
   Telegram      = "@gartzeasstuff"
-  Mastodon      = "https://mastodon.social/@andrewgartzea"
-  Kofi          = "https://ko-fi.com/andrewgartzea"
+  Mastodon      = "@andrewgartzea"
+  Kofi          = "andrewgartzea"
   RSS           = "/articulos/index.xml"
 
 ## Main Menu

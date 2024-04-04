@@ -4,6 +4,7 @@ OUT=$(DIR)/out
 OUT2=/var/www/hugo.gartzea.com
 
 build:
+	git pull andy master
 	hugo --config="$(SRC)/config.toml" -s $(SRC) -d $(OUT)
 	hugo --config="$(SRC)/config.toml" -s $(SRC) -d $(OUT2)
 
